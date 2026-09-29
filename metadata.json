@@ -1,0 +1,6 @@
+{
+  "name": "KisanMitra.ai — Agricultural Scheme Navigator",
+  "description": "From Government Schemes to Your Next Step. AI-powered farmer-support navigator matching agricultural schemes, explaining eligibility, and personalizing benefit pathways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
